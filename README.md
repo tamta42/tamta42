@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @tamta42
 - 👀 I’m interested in AI and everything related to SQL 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on small AI projects which may or may not be work-related
-- 📫 How to reach me ..
-- 😄 Pronouns: he / him / them / it 
 - ⚡ Fun fact: When I was 17 I was almost certain that I'd play guitar in a rock band!
 
 <!---
